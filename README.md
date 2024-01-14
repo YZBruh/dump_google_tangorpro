@@ -1,0 +1,20 @@
+## tangorpro-user 14 UP1A.231005.007 10754064 release-keys
+- Manufacturer: google
+- Platform: gs201
+- Codename: tangorpro
+- Brand: google
+- Flavor: tangorpro-user
+- Release Version: 14
+- Kernel Version: 5.10.157
+- Id: UP1A.231005.007
+- Incremental: 10754064
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/tangorpro/tangorpro:14/UP1A.231005.007/10754064:user/release-keys
+- OTA version: 
+- Branch: tangorpro-user-14-UP1A.231005.007-10754064-release-keys
+- Repo: google_tangorpro_dump
